@@ -1,0 +1,9 @@
+{
+  "name": "T206H Cruise Planner",
+  "short_name": "T206H Cruise",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#13263d"
+}
